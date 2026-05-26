@@ -1,0 +1,5 @@
+gen-assets.py
+copy-assets.py
+deploy.sh
+deploy-py.py
+scroll-record.py
